@@ -60,11 +60,14 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   hero: {
+    borderRadius: 30,
     height: 264,
     marginBottom: 18,
+    overflow: 'hidden',
   },
   heroImage: {
     borderRadius: 30,
+    transform: [{ translateY: 18 }],
   },
   heroOverlay: {
     backgroundColor: colors.overlayStrong,
