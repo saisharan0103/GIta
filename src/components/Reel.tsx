@@ -1,36 +1,52 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { ImageBackground, ImageSourcePropType, StyleSheet, Text, View } from 'react-native';
 
 import { colors } from '../constants/colors';
 import { Verse } from '../types';
 
 type ReelProps = {
+  bottomOffset: number;
+  height: number;
+  image: ImageSourcePropType;
+  topOffset: number;
   verse: Verse;
 };
 
-export function Reel({ verse }: ReelProps) {
+export function Reel({ bottomOffset, height, image, topOffset, verse }: ReelProps) {
   return (
-    <View style={styles.container}>
-      <Text style={styles.sanskrit}>{verse.sanskrit}</Text>
-      <Text style={styles.meaning}>{verse.meaning}</Text>
-      <Text style={styles.reference}>
-        {verse.chapter}.{verse.verse}
-      </Text>
-    </View>
+    <ImageBackground imageStyle={styles.image} source={image} style={[styles.container, { height }]}>
+      <View style={[styles.overlay, { paddingBottom: bottomOffset, paddingTop: topOffset }]}>
+        <View style={styles.textBlock}>
+          <Text style={styles.sanskrit}>{verse.sanskrit}</Text>
+          <Text style={styles.meaning}>{verse.meaning}</Text>
+        </View>
+        <Text style={styles.reference}>
+          {verse.chapter}.{verse.verse}
+        </Text>
+      </View>
+    </ImageBackground>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: colors.deepBlue,
-    flex: 1,
+    backgroundColor: colors.midnight,
     justifyContent: 'center',
-    padding: 24,
+  },
+  image: {
+    resizeMode: 'cover',
   },
   meaning: {
     color: colors.white,
-    fontSize: 22,
-    lineHeight: 32,
+    fontSize: 24,
+    fontWeight: '600',
+    lineHeight: 34,
     marginTop: 20,
+  },
+  overlay: {
+    backgroundColor: colors.overlayStrong,
+    flex: 1,
+    justifyContent: 'space-between',
+    paddingHorizontal: 24,
   },
   reference: {
     color: colors.saffron,
@@ -40,9 +56,12 @@ const styles = StyleSheet.create({
     textAlign: 'right',
   },
   sanskrit: {
-    color: colors.cream,
-    fontSize: 17,
-    lineHeight: 27,
-    opacity: 0.78,
+    color: colors.parchment,
+    fontSize: 18,
+    lineHeight: 30,
+    opacity: 0.92,
+  },
+  textBlock: {
+    marginTop: 'auto',
   },
 });

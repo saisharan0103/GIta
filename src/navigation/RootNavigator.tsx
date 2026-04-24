@@ -27,25 +27,34 @@ const theme = {
 function MainTabs() {
   return (
     <Tab.Navigator
-      screenOptions={{
+      screenOptions={({ route }) => ({
         headerShown: false,
         tabBarActiveTintColor: colors.saffron,
-        tabBarInactiveTintColor: colors.mutedText,
-        tabBarStyle: {
-          backgroundColor: colors.parchment,
-          borderTopColor: colors.border,
-          height: 68,
-          paddingBottom: 8,
-          paddingTop: 8,
-        },
-      }}
+        tabBarInactiveTintColor: route.name === 'Reels' ? colors.white : colors.mutedText,
+        tabBarStyle: [
+          {
+            backgroundColor: colors.parchment,
+            borderTopColor: colors.border,
+            height: 68,
+            paddingBottom: 8,
+            paddingTop: 8,
+          },
+          route.name === 'Reels'
+            ? {
+                backgroundColor: 'rgba(13, 27, 42, 0.55)',
+                borderTopColor: 'rgba(255, 255, 255, 0.14)',
+                position: 'absolute',
+              }
+            : null,
+        ],
+      })}
     >
       <Tab.Screen
         component={HomeScreen}
         name="Home"
         options={{
           tabBarIcon: ({ color, size }) => (
-            <BookOpen color={color} size={size} strokeWidth={1.8} />
+            <BookOpen size={size} stroke={color} strokeWidth={1.8} />
           ),
         }}
       />
@@ -54,7 +63,7 @@ function MainTabs() {
         name="Reels"
         options={{
           tabBarIcon: ({ color, size }) => (
-            <MessageCircle color={color} size={size} strokeWidth={1.8} />
+            <MessageCircle size={size} stroke={color} strokeWidth={1.8} />
           ),
         }}
       />

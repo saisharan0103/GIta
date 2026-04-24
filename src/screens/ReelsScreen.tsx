@@ -1,21 +1,21 @@
-import { useMemo } from 'react';
+import { useCallback, useMemo, useRef, useState } from 'react';
 import {
-  Dimensions,
+  LayoutChangeEvent,
   FlatList,
-  ImageBackground,
   ListRenderItem,
   StyleSheet,
-  Text,
   View,
+  ViewToken,
 } from 'react-native';
+import { useBottomTabBarHeight } from '@react-navigation/bottom-tabs';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { artwork } from '../constants/artwork';
 import { colors } from '../constants/colors';
+import { Reel } from '../components/Reel';
 import { useVerses } from '../hooks/useVerses';
 import { Verse } from '../types';
-
-const { height: screenHeight } = Dimensions.get('window');
 
 type ReelItem = {
   id: string;
@@ -24,7 +24,12 @@ type ReelItem = {
 };
 
 export function ReelsScreen() {
+  const [activeIndex, setActiveIndex] = useState(0);
+  const [viewportHeight, setViewportHeight] = useState(0);
+  const tabBarHeight = useBottomTabBarHeight();
+  const insets = useSafeAreaInsets();
   const verses = useVerses();
+
   const reels = useMemo<ReelItem[]>(
     () =>
       artwork.reels
@@ -45,90 +50,88 @@ export function ReelsScreen() {
     [verses]
   );
 
-  const renderItem: ListRenderItem<ReelItem> = ({ item }) => (
-    <ImageBackground imageStyle={styles.slideImage} source={item.image} style={styles.slide}>
-      <View style={styles.overlay}>
-        <Text style={styles.reelBadge}>Sacred Reel</Text>
-        <View style={styles.textBlock}>
-          <Text style={styles.sanskrit}>{item.verse.sanskrit}</Text>
-          <Text style={styles.meaning}>{item.verse.meaning}</Text>
-        </View>
-        <Text style={styles.reference}>
-          {item.verse.chapter}.{item.verse.verse}
-        </Text>
-      </View>
-    </ImageBackground>
+  const viewabilityConfig = useRef({
+    itemVisiblePercentThreshold: 80,
+  });
+
+  const onViewableItemsChanged = useRef(
+    ({ viewableItems }: { changed: ViewToken<ReelItem>[]; viewableItems: ViewToken<ReelItem>[] }) => {
+      const nextItem = viewableItems.find((item) => item.isViewable && item.index != null);
+
+      if (nextItem?.index != null) {
+        setActiveIndex(nextItem.index);
+      }
+    }
+  );
+
+  const handleLayout = useCallback(
+    (event: LayoutChangeEvent) => {
+      const nextHeight = Math.round(event.nativeEvent.layout.height);
+
+      if (nextHeight > 0 && nextHeight !== viewportHeight) {
+        setViewportHeight(nextHeight);
+      }
+    },
+    [viewportHeight]
+  );
+
+  const getItemLayout = useCallback(
+    (_: ArrayLike<ReelItem> | null | undefined, index: number) => ({
+      index,
+      length: viewportHeight,
+      offset: viewportHeight * index,
+    }),
+    [viewportHeight]
+  );
+
+  const renderItem: ListRenderItem<ReelItem> = useCallback(
+    ({ item }) => (
+      <Reel
+        bottomOffset={tabBarHeight + insets.bottom + 20}
+        height={viewportHeight}
+        image={item.image}
+        topOffset={insets.top + 20}
+        verse={item.verse}
+      />
+    ),
+    [insets.bottom, insets.top, tabBarHeight, viewportHeight]
   );
 
   return (
     <SafeAreaView style={styles.safeArea}>
-      <FlatList
-        data={reels}
-        keyExtractor={(item) => item.id}
-        pagingEnabled
-        renderItem={renderItem}
-        showsVerticalScrollIndicator={false}
-      />
+      <View onLayout={handleLayout} style={styles.container}>
+        {viewportHeight > 0 ? (
+          <FlatList
+            data={reels}
+            decelerationRate="fast"
+            disableIntervalMomentum
+            extraData={activeIndex}
+            getItemLayout={getItemLayout}
+            initialNumToRender={2}
+            keyExtractor={(item) => item.id}
+            maxToRenderPerBatch={2}
+            onViewableItemsChanged={onViewableItemsChanged.current}
+            overScrollMode="never"
+            removeClippedSubviews
+            renderItem={renderItem}
+            showsVerticalScrollIndicator={false}
+            snapToAlignment="start"
+            snapToInterval={viewportHeight}
+            viewabilityConfig={viewabilityConfig.current}
+            windowSize={3}
+          />
+        ) : null}
+      </View>
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  meaning: {
-    color: colors.white,
-    fontSize: 24,
-    fontWeight: '600',
-    lineHeight: 34,
-    marginTop: 18,
-  },
-  overlay: {
-    backgroundColor: colors.overlayStrong,
+  container: {
     flex: 1,
-    justifyContent: 'space-between',
-    paddingBottom: 34,
-    paddingHorizontal: 24,
-    paddingTop: 22,
-  },
-  reelBadge: {
-    alignSelf: 'flex-start',
-    backgroundColor: 'rgba(247, 240, 226, 0.16)',
-    borderColor: 'rgba(224, 181, 92, 0.55)',
-    borderRadius: 999,
-    borderWidth: 1,
-    color: colors.gold,
-    fontSize: 12,
-    fontWeight: '700',
-    letterSpacing: 1,
-    overflow: 'hidden',
-    paddingHorizontal: 12,
-    paddingVertical: 7,
-    textTransform: 'uppercase',
-  },
-  reference: {
-    alignSelf: 'flex-end',
-    color: colors.gold,
-    fontSize: 14,
-    fontWeight: '700',
-    letterSpacing: 0.6,
   },
   safeArea: {
     backgroundColor: colors.midnight,
     flex: 1,
-  },
-  sanskrit: {
-    color: colors.parchment,
-    fontSize: 18,
-    lineHeight: 30,
-    opacity: 0.9,
-  },
-  slide: {
-    height: screenHeight,
-    justifyContent: 'flex-end',
-  },
-  slideImage: {
-    resizeMode: 'cover',
-  },
-  textBlock: {
-    marginTop: 'auto',
   },
 });

@@ -16,7 +16,7 @@ export function KrishnaEntryBar({ onPress }: KrishnaEntryBarProps) {
       style={({ pressed }) => [styles.container, pressed && styles.pressed]}
     >
       <View style={styles.iconWrap}>
-        <MessageCircle color={colors.saffron} size={20} strokeWidth={1.8} />
+        <MessageCircle size={20} stroke={colors.saffron} strokeWidth={1.8} />
       </View>
       <View style={styles.copyWrap}>
         <Text style={styles.label}>Krishna Guidance</Text>
