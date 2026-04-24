@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     right: 0,
     top: -56,
-    transform: [{ translateY: 42 }],
+    transform: [{ translateY: 52 }],
   },
   heroOverlay: {
     backgroundColor: colors.overlayStrong,
