@@ -1,4 +1,4 @@
-import { FlatList, ImageBackground, StyleSheet, Text, View } from 'react-native';
+import { FlatList, Image, StyleSheet, Text, View } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -23,14 +23,15 @@ export function HomeScreen() {
       <FlatList
         ListHeaderComponent={
           <View>
-            <ImageBackground imageStyle={styles.heroImage} source={artwork.hero} style={styles.hero}>
+            <View style={styles.hero}>
+              <Image resizeMode="cover" source={artwork.hero} style={styles.heroImage} />
               <View style={styles.heroOverlay}>
                 <Text style={styles.eyebrow}>Bhagavad Gita</Text>
                 <Text style={styles.title}>
                   A quieter space for verse, reflection, and Krishna-inspired guidance.
                 </Text>
               </View>
-            </ImageBackground>
+            </View>
             <KrishnaEntryBar onPress={() => navigation.navigate('KrishnaChat')} />
             <Text style={styles.sectionLabel}>Daily Verses</Text>
           </View>
@@ -67,7 +68,12 @@ const styles = StyleSheet.create({
   },
   heroImage: {
     borderRadius: 30,
-    transform: [{ translateY: 18 }],
+    bottom: -56,
+    left: 0,
+    position: 'absolute',
+    right: 0,
+    top: -56,
+    transform: [{ translateY: 42 }],
   },
   heroOverlay: {
     backgroundColor: colors.overlayStrong,
