@@ -65,7 +65,6 @@ const styles = StyleSheet.create({
   },
   heroImage: {
     borderRadius: 30,
-    transform: [{ translateY: 30 }],
   },
   heroOverlay: {
     backgroundColor: colors.overlayStrong,
