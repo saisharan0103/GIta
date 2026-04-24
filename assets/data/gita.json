@@ -1,0 +1,1345 @@
+[
+  {
+    "id": "bg_1_1",
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "धृतराष्ट्र उवाच।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+    "meaning": "The blind king Dhritarashtra asks Sanjaya what his sons and the Pandavas did when they gathered on the holy field of Kurukshetra, ready for battle. This is the opening of the Gita — a king anxious about the outcome of a war he himself enabled. Every inner conflict starts the same way: with someone unwilling to see what they already know.",
+    "theme": "opening",
+    "mood_tags": [
+      "reflection",
+      "beginning"
+    ]
+  },
+  {
+    "id": "bg_2_11",
+    "chapter": 2,
+    "verse": 11,
+    "sanskrit": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+    "meaning": "Krishna tells Arjuna: 'You grieve for those who are not worth grieving for, and yet you speak words of wisdom. The truly wise do not mourn the living or the dead.' Sorrow often feels noble, but much of it is for things that were never really ours to hold onto.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "grief",
+      "loss",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "bg_2_13",
+    "chapter": 2,
+    "verse": 13,
+    "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+    "meaning": "Just as the soul within this body passes through childhood, youth, and old age, it also passes into another body after death. The wise are not disturbed by this. Change is the body's nature — but something deeper in you doesn't change with it.",
+    "theme": "soul",
+    "mood_tags": [
+      "grief",
+      "fear-of-death",
+      "change"
+    ]
+  },
+  {
+    "id": "bg_2_14",
+    "chapter": 2,
+    "verse": 14,
+    "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+    "meaning": "The contact of the senses with the world brings cold and heat, pleasure and pain. These come and go — they are not permanent. Learn to endure them. No mood, no situation, no feeling lasts forever. Your job is to stay steady while they pass through you.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "anxiety",
+      "overwhelm",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "bg_2_20",
+    "chapter": 2,
+    "verse": 20,
+    "sanskrit": "न जायते म्रियते वा कदाचिन्\nनायं भूत्वा भविता वा न भूयः।\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे॥",
+    "meaning": "The soul is never born, nor does it ever die. It did not come into being, and it will never cease to be. It is unborn, eternal, ever-existing, and ancient — it is not killed when the body is killed. You are older than your body and outlast everything that happens to it.",
+    "theme": "soul",
+    "mood_tags": [
+      "fear-of-death",
+      "grief",
+      "identity"
+    ]
+  },
+  {
+    "id": "bg_2_22",
+    "chapter": 2,
+    "verse": 22,
+    "sanskrit": "वासांसि जीर्णानि यथा विहाय\nनवानि गृह्णाति नरोऽपराणि।\nतथा शरीराणि विहाय जीर्णा-\nन्यन्यानि संयाति नवानि देही॥",
+    "meaning": "Just as a person discards old clothes and puts on new ones, the soul discards worn-out bodies and enters new ones. Death isn't an ending — it's a change of clothes.",
+    "theme": "soul",
+    "mood_tags": [
+      "grief",
+      "fear-of-death"
+    ]
+  },
+  {
+    "id": "bg_2_23",
+    "chapter": 2,
+    "verse": 23,
+    "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥",
+    "meaning": "Weapons cannot cut the soul. Fire cannot burn it. Water cannot wet it. Wind cannot dry it. Whatever the world does to you on the surface, something in you remains untouched.",
+    "theme": "soul",
+    "mood_tags": [
+      "fear",
+      "inner-strength",
+      "resilience"
+    ]
+  },
+  {
+    "id": "bg_2_27",
+    "chapter": 2,
+    "verse": 27,
+    "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि॥",
+    "meaning": "Whoever is born is certain to die, and whoever dies is certain to be born again. So don't grieve over what cannot be avoided. Accept the rhythm of life — then you can act clearly, instead of being frozen by what was always going to happen.",
+    "theme": "acceptance",
+    "mood_tags": [
+      "grief",
+      "fear-of-death",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "bg_2_38",
+    "chapter": 2,
+    "verse": 38,
+    "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥",
+    "meaning": "Treat happiness and sorrow, gain and loss, victory and defeat — all the same. Then do your duty. You won't incur sin. The moment outcomes stop controlling you, you can finally act freely.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "anxiety",
+      "results",
+      "focus"
+    ]
+  },
+  {
+    "id": "bg_2_40",
+    "chapter": 2,
+    "verse": 40,
+    "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥",
+    "meaning": "On this path, no effort is ever wasted, and there is no setback. Even a little progress on the path of dharma protects you from great fear. You don't have to be perfect. Every small sincere step counts.",
+    "theme": "effort",
+    "mood_tags": [
+      "demotivation",
+      "failure",
+      "hope"
+    ]
+  },
+  {
+    "id": "bg_2_47",
+    "chapter": 2,
+    "verse": 47,
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+    "meaning": "You have the right to do your work, but never to its fruits. Don't let the result become your only motivation, and don't sit idle either. The outcome isn't yours to own — only the action is. Focus there, and the anxiety drops away.",
+    "theme": "karma-yoga",
+    "mood_tags": [
+      "anxiety",
+      "results",
+      "work-stress",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "bg_2_48",
+    "chapter": 2,
+    "verse": 48,
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+    "meaning": "Do your work rooted in yoga — steady within — and let go of attachment. Stay equal in success and failure. This evenness of mind is what yoga really is. Yoga isn't a posture. It's the ability to stay balanced when life isn't.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "anxiety",
+      "results",
+      "balance"
+    ]
+  },
+  {
+    "id": "bg_2_50",
+    "chapter": 2,
+    "verse": 50,
+    "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥",
+    "meaning": "One whose mind is steady lets go of both good and bad outcomes. Therefore, commit to yoga — because yoga is skill in action. Doing your work with a clear, attached-less mind is the highest skill there is.",
+    "theme": "karma-yoga",
+    "mood_tags": [
+      "focus",
+      "work",
+      "skill"
+    ]
+  },
+  {
+    "id": "bg_2_56",
+    "chapter": 2,
+    "verse": 56,
+    "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+    "meaning": "A person whose mind is not shaken by sorrow, who doesn't crave pleasure, and who is free from attachment, fear, and anger — is called a sage of steady wisdom. Calm isn't the absence of problems. It's not being controlled by them.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "anxiety",
+      "fear",
+      "anger",
+      "peace"
+    ]
+  },
+  {
+    "id": "bg_2_62",
+    "chapter": 2,
+    "verse": 62,
+    "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+    "meaning": "When a person keeps thinking about things, attachment to them grows. From attachment comes desire. From unfulfilled desire comes anger. The anger you feel today often started as a harmless thought weeks ago. Watch what you keep replaying in your head.",
+    "theme": "mind",
+    "mood_tags": [
+      "anger",
+      "attachment",
+      "overthinking",
+      "desire"
+    ]
+  },
+  {
+    "id": "bg_2_63",
+    "chapter": 2,
+    "verse": 63,
+    "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+    "meaning": "From anger comes confusion. From confusion, memory is lost. When memory fails, reason is destroyed. And when reason is destroyed, the person is finished. Anger doesn't just hurt others — it first erases your ability to think clearly.",
+    "theme": "mind",
+    "mood_tags": [
+      "anger",
+      "confusion",
+      "self-destruction"
+    ]
+  },
+  {
+    "id": "bg_2_70",
+    "chapter": 2,
+    "verse": 70,
+    "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं\nसमुद्रमापः प्रविशन्ति यद्वत्।\nतद्वत्कामा यं प्रविशन्ति सर्वे\nस न शान्तिमाप्नोति न कामकामी॥",
+    "meaning": "Just as rivers keep flowing into the ocean without disturbing it, desires keep flowing into a peaceful person without shaking them. But the one who chases desires never finds peace. You don't find calm by satisfying every craving — you find it by no longer being owned by them.",
+    "theme": "peace",
+    "mood_tags": [
+      "desire",
+      "peace",
+      "restlessness"
+    ]
+  },
+  {
+    "id": "bg_2_71",
+    "chapter": 2,
+    "verse": 71,
+    "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।\nनिर्ममो निरहङ्कार: स शान्तिमधिगच्छति॥",
+    "meaning": "The person who gives up all cravings, who moves through life without longing, without 'mine-ness' and without ego — attains peace. Peace isn't something you get. It's what's left when the noise stops.",
+    "theme": "peace",
+    "mood_tags": [
+      "peace",
+      "ego",
+      "desire"
+    ]
+  },
+  {
+    "id": "bg_3_5",
+    "chapter": 3,
+    "verse": 5,
+    "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिगुणैः॥",
+    "meaning": "No one can remain without action even for a moment. Everyone is forced to act by the forces of their own nature. 'Doing nothing' is impossible. Even sitting still, something in you is acting. The only choice is how you act.",
+    "theme": "action",
+    "mood_tags": [
+      "demotivation",
+      "discipline",
+      "duty"
+    ]
+  },
+  {
+    "id": "bg_3_8",
+    "chapter": 3,
+    "verse": 8,
+    "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥",
+    "meaning": "Do your prescribed duty — action is better than inaction. Even keeping your body alive is not possible without action. Avoiding what needs to be done isn't peace. It's just another form of suffering.",
+    "theme": "duty",
+    "mood_tags": [
+      "demotivation",
+      "duty",
+      "discipline"
+    ]
+  },
+  {
+    "id": "bg_3_19",
+    "chapter": 3,
+    "verse": 19,
+    "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥",
+    "meaning": "Therefore, always perform your duty without attachment. The person who acts without clinging to results reaches the highest. Attachment to outcome is what exhausts you — not the work itself.",
+    "theme": "karma-yoga",
+    "mood_tags": [
+      "work-stress",
+      "detachment",
+      "results"
+    ]
+  },
+  {
+    "id": "bg_3_21",
+    "chapter": 3,
+    "verse": 21,
+    "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+    "meaning": "Whatever a great person does, others follow. Whatever standard they set, the world accepts. The people around you are watching more than listening. Your actions teach louder than your words.",
+    "theme": "leadership",
+    "mood_tags": [
+      "responsibility",
+      "influence",
+      "example"
+    ]
+  },
+  {
+    "id": "bg_3_27",
+    "chapter": 3,
+    "verse": 27,
+    "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥",
+    "meaning": "All actions are really performed by the forces of nature. But someone confused by ego thinks, 'I am the doer.' Much of what you think you did was shaped by things outside your control. Humility isn't weakness — it's accuracy.",
+    "theme": "ego",
+    "mood_tags": [
+      "ego",
+      "humility",
+      "pride"
+    ]
+  },
+  {
+    "id": "bg_3_35",
+    "chapter": 3,
+    "verse": 35,
+    "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+    "meaning": "It is better to do your own duty imperfectly than someone else's duty perfectly. Even to die doing your own dharma is better — following another's path only brings fear. Your messy, authentic path beats someone else's polished one.",
+    "theme": "duty",
+    "mood_tags": [
+      "identity",
+      "comparison",
+      "purpose",
+      "authenticity"
+    ]
+  },
+  {
+    "id": "bg_3_37",
+    "chapter": 3,
+    "verse": 37,
+    "sanskrit": "काम एष क्रोध एष रजोगुणसमुद्भवः।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥",
+    "meaning": "Krishna says: know this — desire and anger, born of the restless mode of nature, are the real enemy. They are all-consuming and highly destructive. What usually destroys people isn't outside — it's their own wanting and raging.",
+    "theme": "mind",
+    "mood_tags": [
+      "anger",
+      "desire",
+      "self-destruction"
+    ]
+  },
+  {
+    "id": "bg_3_42",
+    "chapter": 3,
+    "verse": 42,
+    "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥",
+    "meaning": "The senses are powerful, but the mind is above the senses. Higher still is the intellect. And beyond even the intellect is the Self. When emotions pull you, don't fight them with more emotion. Step up a level.",
+    "theme": "inner-structure",
+    "mood_tags": [
+      "self-control",
+      "mind",
+      "discipline"
+    ]
+  },
+  {
+    "id": "bg_4_7",
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+    "meaning": "Whenever righteousness declines and unrighteousness rises, I manifest myself. Whenever the world tilts too far into chaos, something always rises to restore balance. The same is true within you.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "hope",
+      "faith",
+      "justice"
+    ]
+  },
+  {
+    "id": "bg_4_8",
+    "chapter": 4,
+    "verse": 8,
+    "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥",
+    "meaning": "To protect the good, to destroy those who do harm, and to re-establish dharma — I take birth age after age. Truth may seem to lose for a while, but it has never lost forever.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "hope",
+      "justice",
+      "faith"
+    ]
+  },
+  {
+    "id": "bg_4_11",
+    "chapter": 4,
+    "verse": 11,
+    "sanskrit": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥",
+    "meaning": "In whatever way people approach me, I respond to them the same way. All paths, in the end, lead to me. However you sincerely reach for the divine, the divine reaches back in that same form.",
+    "theme": "devotion",
+    "mood_tags": [
+      "faith",
+      "devotion",
+      "path"
+    ]
+  },
+  {
+    "id": "bg_4_13",
+    "chapter": 4,
+    "verse": 13,
+    "sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्॥",
+    "meaning": "The four divisions of society were created by me, based on qualities and work. Though I am their creator, know me to be the non-doer, eternal and unchanging. The divine shapes everything yet is untouched by what it shapes.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "purpose",
+      "nature",
+      "work"
+    ]
+  },
+  {
+    "id": "bg_4_18",
+    "chapter": 4,
+    "verse": 18,
+    "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
+    "meaning": "One who sees inaction in action, and action in inaction — that person is truly wise. Sometimes doing nothing is a powerful act, and sometimes doing a lot is just running in circles. Wisdom is knowing which is which.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "discernment",
+      "reflection",
+      "awareness"
+    ]
+  },
+  {
+    "id": "bg_4_24",
+    "chapter": 4,
+    "verse": 24,
+    "sanskrit": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना॥",
+    "meaning": "The offering, the offered, the fire, the one who offers — all are the divine. The one absorbed in divine action reaches the divine itself. When you treat every act as sacred, every moment becomes a meditation.",
+    "theme": "sacrifice",
+    "mood_tags": [
+      "devotion",
+      "work",
+      "meaning"
+    ]
+  },
+  {
+    "id": "bg_4_38",
+    "chapter": 4,
+    "verse": 38,
+    "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥",
+    "meaning": "In this world, nothing purifies like true knowledge. One who has matured in yoga eventually realizes it within themselves, in their own time. Understanding cannot be rushed. It arrives when you're ready — not before.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "patience",
+      "growth",
+      "self-realization"
+    ]
+  },
+  {
+    "id": "bg_4_39",
+    "chapter": 4,
+    "verse": 39,
+    "sanskrit": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥",
+    "meaning": "The one who has faith, who is devoted, and who has mastered the senses — gains knowledge. And once they have knowledge, they quickly reach the highest peace. Faith opens the door that intellect alone cannot.",
+    "theme": "faith",
+    "mood_tags": [
+      "faith",
+      "discipline",
+      "peace"
+    ]
+  },
+  {
+    "id": "bg_4_42",
+    "chapter": 4,
+    "verse": 42,
+    "sanskrit": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत॥",
+    "meaning": "Therefore, cut down the doubt in your heart — born of ignorance — with the sword of knowledge. Take your stand in yoga, and rise up. Doubt is not solved by more thinking. It's cut through by a decision to stand up and act.",
+    "theme": "inner-strength",
+    "mood_tags": [
+      "doubt",
+      "indecision",
+      "courage"
+    ]
+  },
+  {
+    "id": "bg_5_3",
+    "chapter": 5,
+    "verse": 3,
+    "sanskrit": "ज्ञेयः स नित्यसन्न्यासी यो न द्वेष्टि न काङ्क्षति।\nनिर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते॥",
+    "meaning": "The one who neither hates nor desires is the true renunciate. Free from opposites, they are easily liberated from bondage. True freedom isn't escaping the world — it's no longer being pulled back and forth by it.",
+    "theme": "detachment",
+    "mood_tags": [
+      "freedom",
+      "equanimity",
+      "peace"
+    ]
+  },
+  {
+    "id": "bg_5_10",
+    "chapter": 5,
+    "verse": 10,
+    "sanskrit": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा॥",
+    "meaning": "The one who dedicates their actions to the divine, letting go of attachment, is untouched by sin — like a lotus leaf untouched by water. You can be fully in the world and not be stained by it. It's about how you hold it, not whether you touch it.",
+    "theme": "karma-yoga",
+    "mood_tags": [
+      "detachment",
+      "purity",
+      "surrender"
+    ]
+  },
+  {
+    "id": "bg_5_22",
+    "chapter": 5,
+    "verse": 22,
+    "sanskrit": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते।\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः॥",
+    "meaning": "Pleasures born of contact with the senses have a beginning and an end — and they are the very source of suffering. The wise do not delight in them. Every high has a low waiting on the other side. The wise don't chase highs; they seek something steadier.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "desire",
+      "suffering",
+      "pleasure"
+    ]
+  },
+  {
+    "id": "bg_5_29",
+    "chapter": 5,
+    "verse": 29,
+    "sanskrit": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति॥",
+    "meaning": "Knowing me as the enjoyer of all sacrifices and austerities, the Lord of all worlds, and the friend of every being — one attains peace. You are not alone, and you are not unloved. The divine is already your friend.",
+    "theme": "devotion",
+    "mood_tags": [
+      "loneliness",
+      "peace",
+      "faith"
+    ]
+  },
+  {
+    "id": "bg_6_5",
+    "chapter": 6,
+    "verse": 5,
+    "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+    "meaning": "Lift yourself up by yourself. Don't let yourself sink. You are your own best friend — and your own worst enemy. No one can save you from yourself. And no one else needs to.",
+    "theme": "inner-strength",
+    "mood_tags": [
+      "self-talk",
+      "demotivation",
+      "self-reliance"
+    ]
+  },
+  {
+    "id": "bg_6_6",
+    "chapter": 6,
+    "verse": 6,
+    "sanskrit": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥",
+    "meaning": "For the one who has mastered themselves, the self is their greatest friend. But for one who hasn't, the self behaves like an enemy. An unmastered mind is the most hostile company you'll ever keep.",
+    "theme": "self-mastery",
+    "mood_tags": [
+      "discipline",
+      "self-talk",
+      "mind"
+    ]
+  },
+  {
+    "id": "bg_6_16",
+    "chapter": 6,
+    "verse": 16,
+    "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन॥",
+    "meaning": "Yoga is not for the one who eats too much, nor for the one who doesn't eat at all. Not for one who sleeps too much, nor for one who stays awake too long. The spiritual path is a path of balance, not extremes.",
+    "theme": "balance",
+    "mood_tags": [
+      "discipline",
+      "balance",
+      "moderation"
+    ]
+  },
+  {
+    "id": "bg_6_17",
+    "chapter": 6,
+    "verse": 17,
+    "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥",
+    "meaning": "For the one who is balanced in eating, moving, working, sleeping, and waking — yoga becomes the destroyer of sorrow. Most suffering is just extreme behavior catching up with you. Come back to the middle.",
+    "theme": "balance",
+    "mood_tags": [
+      "balance",
+      "discipline",
+      "peace"
+    ]
+  },
+  {
+    "id": "bg_6_19",
+    "chapter": 6,
+    "verse": 19,
+    "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः॥",
+    "meaning": "Just as a lamp in a windless place does not flicker — such is the mind of a disciplined yogi absorbed in the self. A steady mind is simply one that has stopped being blown around.",
+    "theme": "meditation",
+    "mood_tags": [
+      "focus",
+      "calm",
+      "meditation"
+    ]
+  },
+  {
+    "id": "bg_6_29",
+    "chapter": 6,
+    "verse": 29,
+    "sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनम्॥",
+    "meaning": "One whose mind is united in yoga sees the self in all beings, and all beings in the self — seeing the same everywhere. Once you see the same spark in everyone, it gets a lot harder to hate anyone.",
+    "theme": "oneness",
+    "mood_tags": [
+      "compassion",
+      "unity",
+      "empathy"
+    ]
+  },
+  {
+    "id": "bg_6_30",
+    "chapter": 6,
+    "verse": 30,
+    "sanskrit": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥",
+    "meaning": "The one who sees me everywhere and sees everything in me — I am never lost to them, and they are never lost to me. When you look for the divine in everything, it stops hiding.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "devotion",
+      "faith",
+      "connection"
+    ]
+  },
+  {
+    "id": "bg_6_35",
+    "chapter": 6,
+    "verse": 35,
+    "sanskrit": "असंशयं महाबाहो मनो दुर्निग्रहं चलम्।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥",
+    "meaning": "Yes, the mind is restless and hard to control — no doubt about it. But it can be mastered through practice and dispassion. You're not broken for having a wild mind. You just need consistent practice and some emotional distance.",
+    "theme": "mind",
+    "mood_tags": [
+      "restlessness",
+      "discipline",
+      "practice"
+    ]
+  },
+  {
+    "id": "bg_7_3",
+    "chapter": 7,
+    "verse": 3,
+    "sanskrit": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः॥",
+    "meaning": "Among thousands of people, barely one strives for truth. And of those who strive, barely one truly knows me. The fact that you're even reaching for something deeper already puts you in rare company. Keep going.",
+    "theme": "path",
+    "mood_tags": [
+      "motivation",
+      "purpose",
+      "rarity"
+    ]
+  },
+  {
+    "id": "bg_7_7",
+    "chapter": 7,
+    "verse": 7,
+    "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव॥",
+    "meaning": "Nothing is higher than me. Everything you see is strung through me like beads on a single thread. Behind all the apparent chaos, there's one quiet thread holding everything together.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "faith",
+      "unity",
+      "trust"
+    ]
+  },
+  {
+    "id": "bg_7_16",
+    "chapter": 7,
+    "verse": 16,
+    "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ॥",
+    "meaning": "Four kinds of people turn to me: the distressed, the curious, those seeking gain, and the wise. All are welcome. It doesn't matter why you showed up — only that you did. The divine meets you wherever you are.",
+    "theme": "devotion",
+    "mood_tags": [
+      "faith",
+      "beginning",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "bg_7_19",
+    "chapter": 7,
+    "verse": 19,
+    "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः॥",
+    "meaning": "At the end of many lives, the wise one takes refuge in me, realizing that the divine is everything. Such a great soul is very rare. Real understanding isn't quick. Give yourself — and others — time.",
+    "theme": "surrender",
+    "mood_tags": [
+      "patience",
+      "surrender",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "bg_8_5",
+    "chapter": 8,
+    "verse": 5,
+    "sanskrit": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः॥",
+    "meaning": "Whoever remembers me at the time of leaving the body, attains my nature — of this, there is no doubt. The last thought is the result of a lifetime of thoughts. What you fill your days with is what rises at the end.",
+    "theme": "devotion",
+    "mood_tags": [
+      "faith",
+      "death",
+      "remembrance"
+    ]
+  },
+  {
+    "id": "bg_8_6",
+    "chapter": 8,
+    "verse": 6,
+    "sanskrit": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्।\nतं तमेवैति कौन्तेय सदा तद्भावभावितः॥",
+    "meaning": "Whatever state one remembers at the time of death — that is exactly the state they attain, having dwelled on it all their life. You become what you repeatedly think about. Choose what you rehearse.",
+    "theme": "mind",
+    "mood_tags": [
+      "thought",
+      "habit",
+      "focus"
+    ]
+  },
+  {
+    "id": "bg_8_7",
+    "chapter": 8,
+    "verse": 7,
+    "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्॥",
+    "meaning": "Therefore, remember me at all times — and fight. With mind and intellect offered to me, you will come to me without doubt. You don't have to choose between your duty and the divine. Do your work — but do it with a steady inner anchor.",
+    "theme": "surrender",
+    "mood_tags": [
+      "duty",
+      "devotion",
+      "balance"
+    ]
+  },
+  {
+    "id": "bg_9_22",
+    "chapter": 9,
+    "verse": 22,
+    "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥",
+    "meaning": "For those who think of me with single-minded devotion and worship me always — I personally carry what they need and preserve what they have. When your focus is whole, what you need tends to show up on its own.",
+    "theme": "surrender",
+    "mood_tags": [
+      "faith",
+      "trust",
+      "surrender"
+    ]
+  },
+  {
+    "id": "bg_9_26",
+    "chapter": 9,
+    "verse": 26,
+    "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः॥",
+    "meaning": "Whoever offers me a leaf, a flower, a fruit, or even water — with love — I accept it with joy. The divine doesn't care about the size of your offering. Only the honesty behind it.",
+    "theme": "devotion",
+    "mood_tags": [
+      "devotion",
+      "simplicity",
+      "love"
+    ]
+  },
+  {
+    "id": "bg_9_27",
+    "chapter": 9,
+    "verse": 27,
+    "sanskrit": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्॥",
+    "meaning": "Whatever you do, whatever you eat, whatever you give, whatever you practice — offer it to me. When every ordinary action becomes a small offering, your whole life turns into prayer.",
+    "theme": "devotion",
+    "mood_tags": [
+      "purpose",
+      "devotion",
+      "meaning"
+    ]
+  },
+  {
+    "id": "bg_9_29",
+    "chapter": 9,
+    "verse": 29,
+    "sanskrit": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्॥",
+    "meaning": "I am equal to all beings — no one is dear to me, no one is hated. But those who worship me with love — they live in me, and I live in them. The divine doesn't play favorites. But love opens a door that mere belief doesn't.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "equality",
+      "love",
+      "devotion"
+    ]
+  },
+  {
+    "id": "bg_9_30",
+    "chapter": 9,
+    "verse": 30,
+    "sanskrit": "अपि चेत्सुदुराचारो भजते मामनन्यभाक्।\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः॥",
+    "meaning": "Even if someone of very bad conduct worships me with undivided devotion, they should be considered good — because they have made the right resolve. No one is too far gone. The decision to turn toward the good is itself the turning.",
+    "theme": "surrender",
+    "mood_tags": [
+      "hope",
+      "redemption",
+      "forgiveness"
+    ]
+  },
+  {
+    "id": "bg_9_34",
+    "chapter": 9,
+    "verse": 34,
+    "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः॥",
+    "meaning": "Fix your mind on me. Be devoted to me. Worship me. Bow to me. Doing this with your whole self, you will come to me. Simple instructions — but the whole journey lives inside them.",
+    "theme": "devotion",
+    "mood_tags": [
+      "devotion",
+      "focus",
+      "path"
+    ]
+  },
+  {
+    "id": "bg_10_8",
+    "chapter": 10,
+    "verse": 8,
+    "sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः॥",
+    "meaning": "I am the source of everything. From me, all things flow. Knowing this, the wise worship me with deep feeling. Everything you see began somewhere quieter. Trace it back far enough, and you find the same source.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "awe",
+      "faith",
+      "source"
+    ]
+  },
+  {
+    "id": "bg_10_10",
+    "chapter": 10,
+    "verse": 10,
+    "sanskrit": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्।\nददामि बुद्धियोगं तं येन मामुपयान्ति ते॥",
+    "meaning": "To those who are constantly devoted and worship me with love, I give the inner wisdom by which they come to me. Keep showing up. The understanding will meet you.",
+    "theme": "grace",
+    "mood_tags": [
+      "faith",
+      "patience",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "bg_10_11",
+    "chapter": 10,
+    "verse": 11,
+    "sanskrit": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः।\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता॥",
+    "meaning": "Out of compassion for them, I dwell within their heart and destroy the darkness of ignorance with the bright lamp of knowledge. The light you need doesn't come from outside. It's lit inside you, when you're ready.",
+    "theme": "grace",
+    "mood_tags": [
+      "hope",
+      "compassion",
+      "clarity"
+    ]
+  },
+  {
+    "id": "bg_10_20",
+    "chapter": 10,
+    "verse": 20,
+    "sanskrit": "अहमात्मा गुडाकेश सर्वभूतशयस्थितः।\nअहमादिश्च मध्यं च भूतानामन्त एव च॥",
+    "meaning": "I am the self seated in the heart of all beings. I am their beginning, their middle, and their end. You are never alone. The one you're looking for is already looking out through your eyes.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "loneliness",
+      "connection",
+      "presence"
+    ]
+  },
+  {
+    "id": "bg_11_32",
+    "chapter": 11,
+    "verse": 32,
+    "sanskrit": "श्रीभगवानुवाच।\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः॥",
+    "meaning": "Krishna reveals: 'I am Time, the mighty destroyer of worlds, here to end them. Even without you, all these warriors will cease to exist.' Time takes everything eventually. Your job is not to stop it — only to do what's right while you're here.",
+    "theme": "time",
+    "mood_tags": [
+      "impermanence",
+      "awe",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "bg_11_33",
+    "chapter": 11,
+    "verse": 33,
+    "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्।\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन्॥",
+    "meaning": "Therefore, rise and earn your glory. Defeat the enemies and enjoy a prosperous kingdom. These warriors have already been struck down by me — you are only the instrument. Sometimes what feels like your heavy personal battle is actually part of something much larger. Show up. Play your part.",
+    "theme": "action",
+    "mood_tags": [
+      "courage",
+      "purpose",
+      "duty"
+    ]
+  },
+  {
+    "id": "bg_11_55",
+    "chapter": 11,
+    "verse": 55,
+    "sanskrit": "मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः।\nनिर्वैरः सर्वभूतेषु यः स मामेति पाण्डव॥",
+    "meaning": "The one who works for me, sees me as the highest, is devoted to me, free from attachment, and bears no hatred toward any being — comes to me. Devotion without kindness is incomplete.",
+    "theme": "devotion",
+    "mood_tags": [
+      "devotion",
+      "compassion",
+      "non-hatred"
+    ]
+  },
+  {
+    "id": "bg_12_8",
+    "chapter": 12,
+    "verse": 8,
+    "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः॥",
+    "meaning": "Fix your mind on me. Place your intellect in me. Then you will live in me — no doubt about it. Where your attention goes, you go. Point it somewhere worthy.",
+    "theme": "focus",
+    "mood_tags": [
+      "focus",
+      "devotion",
+      "attention"
+    ]
+  },
+  {
+    "id": "bg_12_12",
+    "chapter": 12,
+    "verse": 12,
+    "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते।\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्॥",
+    "meaning": "Knowledge is better than blind practice. Meditation is better than knowledge. And letting go of the fruits of action is better than meditation — from such letting go, peace follows immediately. Peace isn't earned by grabbing more. It arrives the moment you stop grabbing.",
+    "theme": "peace",
+    "mood_tags": [
+      "peace",
+      "detachment",
+      "results"
+    ]
+  },
+  {
+    "id": "bg_12_13",
+    "chapter": 12,
+    "verse": 13,
+    "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी॥",
+    "meaning": "One who bears no hatred toward any being, who is friendly and compassionate, free of possessiveness and ego, equal in joy and sorrow, and forgiving — is dear to me. Spirituality doesn't mean being above others. It means being good to them.",
+    "theme": "character",
+    "mood_tags": [
+      "compassion",
+      "forgiveness",
+      "kindness"
+    ]
+  },
+  {
+    "id": "bg_12_15",
+    "chapter": 12,
+    "verse": 15,
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥",
+    "meaning": "The one who does not disturb the world, and whom the world does not disturb — free from joy, jealousy, fear, and anxiety — is dear to me. Be someone who brings ease. And don't let other people's chaos become yours.",
+    "theme": "character",
+    "mood_tags": [
+      "peace",
+      "boundaries",
+      "calm"
+    ]
+  },
+  {
+    "id": "bg_12_18",
+    "chapter": 12,
+    "verse": 18,
+    "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः॥",
+    "meaning": "One who is the same toward friend and enemy, in honor and insult, in heat and cold, in joy and sorrow — free from attachment — is dear to me. When you're not secretly keeping score, life gets much lighter.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "equanimity",
+      "detachment",
+      "calm"
+    ]
+  },
+  {
+    "id": "bg_12_19",
+    "chapter": 12,
+    "verse": 19,
+    "sanskrit": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः॥",
+    "meaning": "One who is the same in praise and blame, quiet, content with whatever comes, not attached to any fixed place, steady in mind, and devoted — is dear to me. Freedom is not needing praise, and not fearing blame.",
+    "theme": "character",
+    "mood_tags": [
+      "contentment",
+      "ego",
+      "approval"
+    ]
+  },
+  {
+    "id": "bg_13_7",
+    "chapter": 13,
+    "verse": 7,
+    "sanskrit": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्।\nआचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः॥",
+    "meaning": "Humility, sincerity, non-violence, patience, honesty, respect for teachers, cleanliness, steadiness, and self-control — these are the marks of true knowledge. Knowledge isn't information. It's how you live.",
+    "theme": "character",
+    "mood_tags": [
+      "humility",
+      "character",
+      "virtue"
+    ]
+  },
+  {
+    "id": "bg_13_27",
+    "chapter": 13,
+    "verse": 27,
+    "sanskrit": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्।\nविनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति॥",
+    "meaning": "The one who sees the same supreme presence in all beings — unchanging amid all the changing — truly sees. Everything around you keeps shifting. Something in the middle of it all doesn't. That's what's worth noticing.",
+    "theme": "oneness",
+    "mood_tags": [
+      "perception",
+      "unity",
+      "presence"
+    ]
+  },
+  {
+    "id": "bg_13_28",
+    "chapter": 13,
+    "verse": 28,
+    "sanskrit": "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम्।\nन हिनस्त्यात्मनात्मानं ततो याति परां गतिम्॥",
+    "meaning": "Seeing the same divine everywhere, one does not harm oneself by hurting another — and thus reaches the highest goal. When you truly see that everyone carries the same spark, cruelty becomes impossible.",
+    "theme": "compassion",
+    "mood_tags": [
+      "compassion",
+      "non-harm",
+      "unity"
+    ]
+  },
+  {
+    "id": "bg_14_5",
+    "chapter": 14,
+    "verse": 5,
+    "sanskrit": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः।\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम्॥",
+    "meaning": "Goodness (sattva), passion (rajas), and dullness (tamas) — these three qualities of nature bind the eternal soul within the body. You're not your moods. You're the one watching them rise and fall.",
+    "theme": "modes-of-nature",
+    "mood_tags": [
+      "identity",
+      "self-awareness",
+      "moods"
+    ]
+  },
+  {
+    "id": "bg_14_22",
+    "chapter": 14,
+    "verse": 22,
+    "sanskrit": "प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव।\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति॥",
+    "meaning": "The one beyond the three modes neither hates clarity, activity, or delusion when they arise — nor longs for them when they fade. Moods come. Moods go. You don't have to grab them or push them away.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "moods",
+      "equanimity",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "bg_14_24",
+    "chapter": 14,
+    "verse": 24,
+    "sanskrit": "समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः।\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः॥",
+    "meaning": "Equal in pain and pleasure, self-reliant, seeing a clod of earth, a stone, and gold as the same — steady in what is liked and disliked, praised or blamed — such a person has risen beyond the modes. The more evenly you see the world, the less it can push you around.",
+    "theme": "equanimity",
+    "mood_tags": [
+      "equanimity",
+      "self-reliance",
+      "approval"
+    ]
+  },
+  {
+    "id": "bg_14_26",
+    "chapter": 14,
+    "verse": 26,
+    "sanskrit": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते।\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते॥",
+    "meaning": "One who serves me with unwavering devotion rises above the three modes of nature and becomes fit for union with the divine. Steady devotion lifts you above the tug-of-war of the mind.",
+    "theme": "devotion",
+    "mood_tags": [
+      "devotion",
+      "transcendence",
+      "faith"
+    ]
+  },
+  {
+    "id": "bg_15_1",
+    "chapter": 15,
+    "verse": 1,
+    "sanskrit": "ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्॥",
+    "meaning": "The wise speak of an eternal tree — roots above, branches below — the tree of worldly existence. The one who truly understands it knows the scriptures. Much of life is upside-down from how it first appears. Knowing that is the beginning of seeing clearly.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "perception",
+      "reality",
+      "illusion"
+    ]
+  },
+  {
+    "id": "bg_15_5",
+    "chapter": 15,
+    "verse": 5,
+    "sanskrit": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः।\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै-\nर्गच्छन्त्यमूढाः पदमव्ययं तत्॥",
+    "meaning": "Free from pride and delusion, victorious over attachment, ever absorbed in the self, free of desire, released from the dualities of pleasure and pain — the wise reach that eternal state. The path isn't about gaining things. It's about being less owned.",
+    "theme": "liberation",
+    "mood_tags": [
+      "freedom",
+      "detachment",
+      "peace"
+    ]
+  },
+  {
+    "id": "bg_15_7",
+    "chapter": 15,
+    "verse": 7,
+    "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥",
+    "meaning": "The living soul in this world is an eternal portion of me. You are not a random accident. Something divine is expressing itself through you.",
+    "theme": "identity",
+    "mood_tags": [
+      "identity",
+      "self-worth",
+      "purpose"
+    ]
+  },
+  {
+    "id": "bg_15_15",
+    "chapter": 15,
+    "verse": 15,
+    "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनं च।\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम्॥",
+    "meaning": "I am seated in the heart of every being. From me come memory, knowledge, and their loss. Everything the scriptures point to — that is me. The answer you're looking for is already inside. You just have to get quiet enough to hear it.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "inner-guidance",
+      "presence",
+      "self-inquiry"
+    ]
+  },
+  {
+    "id": "bg_16_1",
+    "chapter": 16,
+    "verse": 1,
+    "sanskrit": "श्रीभगवानुवाच।\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्॥",
+    "meaning": "Fearlessness, purity of heart, steadiness in knowledge, generosity, self-control, sacrifice, self-study, discipline, and honesty — these are the first divine qualities. The spiritual life begins with simple, human virtues done consistently.",
+    "theme": "character",
+    "mood_tags": [
+      "virtue",
+      "character",
+      "discipline"
+    ]
+  },
+  {
+    "id": "bg_16_3",
+    "chapter": 16,
+    "verse": 3,
+    "sanskrit": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।\nभवन्ति सम्पदं दैवीमभिजातस्य भारत॥",
+    "meaning": "Vigor, forgiveness, perseverance, cleanliness, freedom from malice, and humility — these belong to one born into the divine nature. Real strength looks a lot more like patience and humility than most people think.",
+    "theme": "character",
+    "mood_tags": [
+      "strength",
+      "humility",
+      "patience"
+    ]
+  },
+  {
+    "id": "bg_16_21",
+    "chapter": 16,
+    "verse": 21,
+    "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥",
+    "meaning": "There are three gates to self-destruction: lust, anger, and greed. Therefore, leave these three behind. Most of human suffering fits inside those three words. Watch them like they're watching you.",
+    "theme": "mind",
+    "mood_tags": [
+      "desire",
+      "anger",
+      "greed",
+      "self-destruction"
+    ]
+  },
+  {
+    "id": "bg_17_3",
+    "chapter": 17,
+    "verse": 3,
+    "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः॥",
+    "meaning": "The faith of every person matches their inner nature. A person is made of their faith — whatever they believe in, that is what they become. You become what you consistently trust in. Choose carefully.",
+    "theme": "faith",
+    "mood_tags": [
+      "faith",
+      "belief",
+      "identity"
+    ]
+  },
+  {
+    "id": "bg_17_15",
+    "chapter": 17,
+    "verse": 15,
+    "sanskrit": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते॥",
+    "meaning": "Speech that doesn't disturb, that is true, kind, and helpful — along with the practice of self-study — is the discipline of words. How you speak is itself a spiritual practice. Gentle, honest, useful — pick all three.",
+    "theme": "speech",
+    "mood_tags": [
+      "speech",
+      "kindness",
+      "honesty"
+    ]
+  },
+  {
+    "id": "bg_17_20",
+    "chapter": 17,
+    "verse": 20,
+    "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम्॥",
+    "meaning": "A gift given because it is right to give — given to one who cannot repay, in the right place, at the right time, to the right person — is pure giving. The purest gift expects nothing in return. Not even gratitude.",
+    "theme": "giving",
+    "mood_tags": [
+      "generosity",
+      "kindness",
+      "selflessness"
+    ]
+  },
+  {
+    "id": "bg_18_14",
+    "chapter": 18,
+    "verse": 14,
+    "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्॥",
+    "meaning": "The body, the doer, the instruments, the many kinds of effort, and destiny — these are the five factors behind every action. You are not the sole cause of your outcomes. Do your part, respect the rest.",
+    "theme": "action",
+    "mood_tags": [
+      "humility",
+      "effort",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "bg_18_20",
+    "chapter": 18,
+    "verse": 20,
+    "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते।\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्॥",
+    "meaning": "Knowledge that sees one indivisible reality in all beings — unchanging within all the changing — is pure knowledge. The divisions are real on the surface. But something unifies it all underneath.",
+    "theme": "oneness",
+    "mood_tags": [
+      "unity",
+      "perception",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "bg_18_23",
+    "chapter": 18,
+    "verse": 23,
+    "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम्।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते॥",
+    "meaning": "Action done as a duty, without attachment, without love or hatred, and without craving the result — is pure action. The cleanest work is the work done without a hidden agenda.",
+    "theme": "karma-yoga",
+    "mood_tags": [
+      "duty",
+      "detachment",
+      "purity"
+    ]
+  },
+  {
+    "id": "bg_18_42",
+    "chapter": 18,
+    "verse": 42,
+    "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्॥",
+    "meaning": "Calmness, self-control, discipline, purity, patience, honesty, knowledge, wisdom, and faith — these are the natural qualities of those whose work is to preserve wisdom. Every kind of work carries its own inner virtues. Discover yours and lean into them.",
+    "theme": "duty",
+    "mood_tags": [
+      "character",
+      "purpose",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "bg_18_43",
+    "chapter": 18,
+    "verse": 43,
+    "sanskrit": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्॥",
+    "meaning": "Courage, vigor, steadiness, skill, not fleeing in battle, generosity, and leadership — these are the natural qualities of the protector. Everyone has a role. The warrior's role is to not run when it matters.",
+    "theme": "duty",
+    "mood_tags": [
+      "courage",
+      "leadership",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "bg_18_47",
+    "chapter": 18,
+    "verse": 47,
+    "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्॥",
+    "meaning": "It is better to do your own duty imperfectly than to do another's duty perfectly. Doing the work natural to your own being, you incur no fault. Chase your own path — even flawed — over someone else's perfect one.",
+    "theme": "duty",
+    "mood_tags": [
+      "authenticity",
+      "purpose",
+      "comparison"
+    ]
+  },
+  {
+    "id": "bg_18_48",
+    "chapter": 18,
+    "verse": 48,
+    "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः॥",
+    "meaning": "Do not abandon the work natural to you, even if it has flaws — because every undertaking has flaws, just as every fire has smoke. Don't wait for the perfect path. It doesn't exist. Start from where you are.",
+    "theme": "duty",
+    "mood_tags": [
+      "perfectionism",
+      "action",
+      "beginning"
+    ]
+  },
+  {
+    "id": "bg_18_58",
+    "chapter": 18,
+    "verse": 58,
+    "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि।\nअथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि॥",
+    "meaning": "If you keep your mind on me, by my grace you will cross every difficulty. But if out of ego you refuse to listen, you will be lost. Sometimes the thing in your way is not the obstacle — it's your refusal to ask for help.",
+    "theme": "surrender",
+    "mood_tags": [
+      "ego",
+      "faith",
+      "humility"
+    ]
+  },
+  {
+    "id": "bg_18_61",
+    "chapter": 18,
+    "verse": 61,
+    "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया॥",
+    "meaning": "The Lord dwells in the heart of all beings, causing them to move by the power of illusion — as though mounted on a machine. Much of what you call 'me' is actually being spun by forces bigger than you. Humility follows from seeing this.",
+    "theme": "divine-presence",
+    "mood_tags": [
+      "humility",
+      "surrender",
+      "presence"
+    ]
+  },
+  {
+    "id": "bg_18_63",
+    "chapter": 18,
+    "verse": 63,
+    "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु॥",
+    "meaning": "Thus I have explained to you the knowledge that is most secret. Reflect on it fully, and then do as you wish. Truth is offered, never forced. Think it through. The choice remains yours.",
+    "theme": "wisdom",
+    "mood_tags": [
+      "freedom",
+      "reflection",
+      "choice"
+    ]
+  },
+  {
+    "id": "bg_18_65",
+    "chapter": 18,
+    "verse": 65,
+    "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥",
+    "meaning": "Fix your mind on me. Be devoted to me. Worship me. Bow to me. You will come to me — this I promise you, for you are dear to me. You are loved. Don't forget that.",
+    "theme": "devotion",
+    "mood_tags": [
+      "love",
+      "devotion",
+      "comfort"
+    ]
+  },
+  {
+    "id": "bg_18_66",
+    "chapter": 18,
+    "verse": 66,
+    "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+    "meaning": "Let go of every other duty and come to me alone for shelter. I will free you from all that weighs on you. Do not grieve. When everything else feels too heavy, just let go. You don't have to carry it all alone.",
+    "theme": "surrender",
+    "mood_tags": [
+      "surrender",
+      "overwhelm",
+      "faith",
+      "relief"
+    ]
+  },
+  {
+    "id": "bg_18_78",
+    "chapter": 18,
+    "verse": 78,
+    "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिरिति मे मतिम्॥",
+    "meaning": "Where Krishna, the master of yoga, and Arjuna, the wielder of the bow, are together — there is prosperity, victory, wealth, and sound judgment. This is my conviction. Where wisdom and sincere effort meet, good things follow.",
+    "theme": "union",
+    "mood_tags": [
+      "hope",
+      "victory",
+      "partnership"
+    ]
+  }
+]

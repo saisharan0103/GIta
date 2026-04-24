@@ -1,0 +1,16 @@
+export const colors = {
+  cream: '#F7F0E2',
+  parchment: '#FBF5E7',
+  sandal: '#E7D6B4',
+  saffron: '#C98934',
+  gold: '#E0B55C',
+  deepBlue: '#17304E',
+  midnight: '#0D1B2A',
+  softText: '#2F2418',
+  mutedText: '#6C5C46',
+  card: '#FFF9EE',
+  border: '#D9C39A',
+  overlay: 'rgba(13, 27, 42, 0.38)',
+  overlayStrong: 'rgba(13, 27, 42, 0.56)',
+  white: '#FFFFFF',
+};
